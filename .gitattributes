@@ -1,0 +1,43 @@
+# Track only Dart and Markdown files as text
+*.dart text
+*.md text
+
+# Ignore all other common programming languages
+*.java linguist-vendored
+*.kt linguist-vendored
+*.js linguist-vendored
+*.ts linguist-vendored
+*.jsx linguist-vendored
+*.tsx linguist-vendored
+*.py linguist-vendored
+*.rb linguist-vendored
+*.go linguist-vendored
+*.c linguist-vendored
+*.cpp linguist-vendored
+*.h linguist-vendored
+*.hpp linguist-vendored
+*.cs linguist-vendored
+*.swift linguist-vendored
+*.php linguist-vendored
+*.rs linguist-vendored
+*.scala linguist-vendored
+*.sh linguist-vendored
+*.bat linguist-vendored
+*.pl linguist-vendored
+*.r linguist-vendored
+*.m linguist-vendored
+*.sql linguist-vendored
+*.html linguist-vendored
+*.css linguist-vendored
+*.scss linguist-vendored
+*.xml linguist-vendored
+*.json linguist-vendored
+*.yml linguist-vendored
+*.yaml linguist-vendored
+*.vue linguist-vendored
+*.coffee linguist-vendored
+*.erl linguist-vendored
+*.ex linguist-vendored
+*.exs linguist-vendored
+*.hs linguist-vendored
+*.lua linguist-vendored
