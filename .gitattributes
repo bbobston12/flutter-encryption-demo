@@ -1,6 +1,6 @@
 # Track only Dart and Markdown files as text
-*.dart text
-*.md text
+*.dart linguist-language=Dart
+*.md linguist-language=Markdown
 
 # Ignore all other common programming languages
 *.java linguist-vendored
