@@ -13,7 +13,7 @@ This Flutter application demonstrates simple text encryption and decryption usin
 
 ## Demo
 
-![App Demo](cryption.gif)
+![App Demo](Cryption.gif)
 
 ## How It Works
 
